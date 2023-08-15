@@ -38,10 +38,11 @@ Then we’ll click apply button and verify that new row was successfully added.
 We have run our test. It can be easily converted into POM test framework with python & pytest, also logger can be added and test report generated. 
 
 ### How to run the script:
-1. Install [Python](https://www.python.org/)
-2. Install Selenium from command line
+1. Copy script
+2. Install [Python](https://www.python.org/)
+3. Install Selenium from command line
 ```pip install selenium```
    
-3. Install browser driver and add its directory to system variable path
-4. Run script from its directory by running command
+4. Install browser driver and add its directory to system variable path
+5. Run script from its directory by running command
 ```python subframe_selenium_project.py```
